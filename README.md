@@ -47,7 +47,7 @@ Model Size	Cost
 
 All criteria are assigned equal weights.
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Python
 
@@ -95,6 +95,9 @@ Model
 TOPSIS Score
 
 Rank
+
+<img width="495" height="329" alt="image" src="https://github.com/user-attachments/assets/79e9f5dc-7864-476e-8615-c109f8d80a8f" />
+
 
 **▶️ How to Run**
 
