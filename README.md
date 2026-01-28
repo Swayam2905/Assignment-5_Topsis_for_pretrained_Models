@@ -103,7 +103,7 @@ Rank
 
 Clone the repository:
 
-git clone https://github.com/your-username/topsis-text-classification.git
+git clone https://github.com/Swayam2905/Assignment-5_Topsis_for_pretrained_Models.git
 
 
 Install required libraries:
@@ -116,7 +116,6 @@ Run the script:
 python topsis_text_classification.py
 
 
-Results will be saved inside the results/ folder.
 
 **📈 Use Cases**
 
